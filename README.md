@@ -21,7 +21,7 @@ Este projeto consiste em um script Python que automatiza o processo de aplicaç�
 - Interação com o ambiente do Google Colab.
 
 ## Uso
-![https://colab.research.google.com/drive/1itPF_pOWFgN0zbyUt-r6DnxicwER-RuD#scrollTo=JGz3B3cBT880&uniqifier=2](https://camo.githubusercontent.com/ce254316621ae7180772f1e8355fd15d6258eda95d51897e76068d11e6fa7987/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6c61622d4639414230303f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65636f6c616226636f6c6f723d353235323532)
+[![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1itPF_pOWFgN0zbyUt-r6DnxicwER-RuD#scrollTo=JGz3B3cBT880&uniqifier=2)
 
 ```python
 # Clone este repositório para o seu ambiente local.
@@ -37,7 +37,6 @@ Se você deseja contribuir para este projeto, siga as etapas abaixo:
 4. Envie um pull request para este repositório.
 
 ## Licença
-![https://github.com/RafaelGodoyEbert/xdelta3-python/blob/master/LICENSE](https://raw.githubusercontent.com/RafaelGodoyEbert/xdelta3-python/master/img/license.png)
 
 Este projeto é distribuído sob Apache. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
