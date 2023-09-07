@@ -37,7 +37,7 @@ Se você deseja contribuir para este projeto, siga as etapas abaixo:
 4. Envie um pull request para este repositório.
 
 ## Licença
-![https://github.com/RafaelGodoyEbert/xdelta3-python/blob/master/LICENSE]([https://camo.githubusercontent.com/5bf60b7c5d74dc8c5de4fe2eb1fc07f829c7a2797462ee82e66cb239b1fbac3b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6c69756a696e6730342f52657472696576616c2d62617365642d566f6963652d436f6e76657273696f6e2d57656255493f7374796c653d666f722d7468652d6261646765](https://raw.githubusercontent.com/RafaelGodoyEbert/xdelta3-python/master/img/license.png))
+![https://github.com/RafaelGodoyEbert/xdelta3-python/blob/master/LICENSE](https://raw.githubusercontent.com/RafaelGodoyEbert/xdelta3-python/master/img/license.png)
 
 Este projeto é distribuído sob Apache. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
